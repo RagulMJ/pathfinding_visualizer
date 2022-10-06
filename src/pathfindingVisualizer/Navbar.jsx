@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './navbar.css';
+import './Navbar.css';
 
 class NavBar extends Component {
   state = {

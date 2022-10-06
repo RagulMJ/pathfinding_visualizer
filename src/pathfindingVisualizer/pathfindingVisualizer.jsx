@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './pathfindingVisualizer.css';
-import Node from './Node/node';
-import NavBar from './navbar';
+import Node from './node/node_grid';
+import NavBar from './Navbar';
 
 //Pathfinding Algorithms
 import {
